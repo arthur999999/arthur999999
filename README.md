@@ -10,7 +10,7 @@
 </div>
 
 ##
-<div>
+<div align="center">
   
 ## Tecnologias que utilizo
 </div>
