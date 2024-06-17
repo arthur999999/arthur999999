@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋
+
+## Blockchain / Crypto dev Rust
+
+## FullStack web dev
+
+## Discord: amadeusarthur
 
 <!--
 **arthur999999/arthur999999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
