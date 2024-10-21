@@ -1,8 +1,5 @@
 ## Hi 👋
 
-## Blockchain / Crypto dev Rust
-
-## FullStack web dev
 
 ## Discord: amadeusarthur
 
