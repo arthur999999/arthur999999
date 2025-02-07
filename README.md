@@ -1,7 +1,5 @@
 ## Hi
 
-## I ❤️ Rust
-
 ## Discord: amadeusarthur
 
 <!--
