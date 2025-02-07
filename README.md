@@ -1,6 +1,6 @@
 ## Hi
 
-## I ❤️ Rust & Solana
+## I ❤️ Rust
 
 ## Discord: amadeusarthur
 
